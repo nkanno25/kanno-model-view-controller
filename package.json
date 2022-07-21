@@ -1,0 +1,27 @@
+{
+  "name": "kanno-model-view-controller",
+  "version": "1.0.0",
+  "description": "hw14",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nkanno25/kanno-model-view-controller.git"
+  },
+  "author": "nick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nkanno25/kanno-model-view-controller/issues"
+  },
+  "homepage": "https://github.com/nkanno25/kanno-model-view-controller#readme",
+  "dependencies": {
+    "exphbs": "^1.2.0",
+    "express": "^4.18.1",
+    "path": "^0.12.7",
+    "sequelize": "^6.21.3",
+    "session": "^0.1.0"
+  }
+}
